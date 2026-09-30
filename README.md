@@ -4,6 +4,13 @@ A minimal, production-minded **Document Approval Workflow** built with a **Djang
 
 ---
 
+## 🌐 Live Application
+- **Frontend App:** [https://document-approval-workflow.onrender.com](https://document-approval-workflow.onrender.com)
+- **Backend API:** [https://document-workflow-api.onrender.com](https://document-workflow-api.onrender.com)
+- **Video Walkthrough:** [Loom Video (5 mins)](https://www.loom.com/share/f27a00d70db2407da2719fbb548678e5)
+
+---
+
 ## 🚀 Quick Start & Local Setup
 
 ### Prerequisites
@@ -236,7 +243,7 @@ In alignment with transparent development practices:
 ## 📹 Video Walkthrough
 
 A 5-minute video walkthrough explaining the architecture, demonstrating live document upload/approval, and discussing technical tradeoffs:
-- **Walkthrough Link:** `[Add Walkthrough Recording Link Here]` *(e.g. Loom, YouTube unlisted, or Google Drive link)*
+- **Walkthrough Link:** [Loom Video Walkthrough](https://www.loom.com/share/f27a00d70db2407da2719fbb548678e5)
 
 ---
 
